@@ -1,0 +1,9 @@
+name: "SillyTavern"
+description: "A local-first LLM frontend for power users, supporting chat, character cards, and multiple AI providers."
+url: "https://sillytavern.app"
+docs: "https://docs.sillytavern.app/usage/api-connections/openrouter/"
+tags:
+  - chat
+  - creative
+open_source: "https://github.com/SillyTavern/SillyTavern"
+date_added: "2025-01-08"

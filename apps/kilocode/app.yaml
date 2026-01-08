@@ -1,0 +1,8 @@
+name: "Kilo Code"
+description: "An AI-powered coding assistant for VS Code that supports multiple AI providers and models."
+url: "https://kilo.ai"
+docs: "https://kilo.ai/docs/providers/openrouter"
+tags:
+  - coding
+open_source: "https://github.com/Kilo-Org/kilocode"
+date_added: "2025-01-08"
