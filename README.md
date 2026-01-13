@@ -79,6 +79,18 @@ An open-source TypeScript framework for building AI-powered applications and age
 
 ---
 
+### [Novelcrafter](https://www.novelcrafter.com)
+
+<img src="./apps/novelcrafter/logo.png" alt="Novelcrafter logo" width="64" height="64">
+
+Your all-in-one writing workspace that blends a powerful world-building wiki called Codex with flexible, model-agnostic AI assistance to help authors plan, draft, and finish their novels with complete creative control.
+
+`chat` `creative` `productivity`
+
+[Documentation](https://www.novelcrafter.com/help/docs/ai-connections/openrouter)
+
+---
+
 ### [Roo Code](https://roocode.com)
 
 <img src="./apps/roo-code/logo.png" alt="Roo Code logo" width="64" height="64">
