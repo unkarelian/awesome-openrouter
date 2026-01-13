@@ -6,6 +6,7 @@ Want to add your app to the "Works with OpenRouter" list? Follow these steps:
 
 Your app must:
 - Use [OpenRouter](https://openrouter.ai) for AI model access
+- Allow users to bring their own OpenRouter API Key
 - Be publicly accessible (or have a public landing page)
 - Have a logo image
 
