@@ -1,0 +1,7 @@
+name: "Ottex"
+description: "WisprFlow + Raycast AI shortcuts but with OpenRouter BYOK. Dictate emails, Slack messages, Claude Code prompts and more. Auto-formats based on the app you're working with."
+url: "https://ottex.ai"
+docs: "https://ottex.ai/docs"
+tags:
+  - productivity
+date_added: "2026-01-14"

@@ -91,6 +91,18 @@ Your all-in-one writing workspace that blends a powerful world-building wiki cal
 
 ---
 
+### [Ottex](https://ottex.ai)
+
+<img src="./apps/ottex/logo.png" alt="Ottex logo" width="64" height="64">
+
+WisprFlow + Raycast AI shortcuts but with OpenRouter BYOK. Dictate emails, Slack messages, Claude Code prompts and more. Auto-formats based on the app you're working with.
+
+`productivity`
+
+[Documentation](https://ottex.ai/docs)
+
+---
+
 ### [Roo Code](https://roocode.com)
 
 <img src="./apps/roo-code/logo.png" alt="Roo Code logo" width="64" height="64">
