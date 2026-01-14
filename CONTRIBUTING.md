@@ -44,7 +44,8 @@ Your app must:
 
 5. **Submit a Pull Request**
    - PRs are validated automatically
-   - Once approved and merged, the README will be regenerated to include your app
+   - **Do not edit README.md** — it's auto-generated after merge
+   - Once approved and merged, a GitHub Action will regenerate the README to include your app
 
 ## Valid Tags
 
